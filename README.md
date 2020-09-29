@@ -1,4 +1,5 @@
 # A03
+
 # How to use Webstorm 
   # step 1: Create a Repository from Webstorm
     Select VCS and Import into Version Control
@@ -16,6 +17,20 @@
     Click “Ctrl -> Shift -> K”Or “VCS -> Git -> Push”
   # the file should now be on git hub
   
+  
+  # How to use git/github
+# Step 0: Install git and create a GitHub account 
+  a basic search on google --> find the link follow the directions. 
+# Step 1:  Create a Repository
+in the upper right corner, next to your avatar or identicon, click  and then select New repository.
+Name your repository hello-world.
+Write a short description.
+Select Initialize this repository with a README.
+  
+  
+  
+  
+  
    # GLOSSARY 
 # Branch- essentially is a unique set of code changes with a unique name
 # Clone- Cloning a repository means that you're downloading a copy of the source code from source control. 
@@ -31,7 +46,7 @@
 # Repository- A directory or storage space where your projects can live.
 
 # References 
- # Canvas slides
+Canvas slides, 
   https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/#:~:text=Repository%3A%20A%20directory%20or%20storage,name%20it%2C%20inside%20a%20repository.
   
   
