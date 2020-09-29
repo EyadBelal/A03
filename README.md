@@ -31,7 +31,7 @@
 # Repository- A directory or storage space where your projects can live.
 
 # References 
-  Canvas slides
+ # Canvas slides
   https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/#:~:text=Repository%3A%20A%20directory%20or%20storage,name%20it%2C%20inside%20a%20repository.
   
   
