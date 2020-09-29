@@ -65,6 +65,6 @@ Go ahead and delete the branch, since its changes have been incorporated, with t
 
 # References 
 Canvas slides, 
-  https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/#:~:text=Repository%3A%20A%20directory%20or%20storage,name%20it%2C%20inside%20a%20repository.
+  https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/#:~:text=Repository%3A%20A%20directory%20or%20storage,name%20it%2C%20inside%20a%20repository. , https://guides.github.com/activities/hello-world/
   
   
