@@ -1,5 +1,5 @@
 # A03
-# how to use webstorm 
+# How to use Webstorm 
   # step 1: Create a Repository from Webstorm
     Select VCS and Import into Version Control
   # step 2: Import a Repository from Github
